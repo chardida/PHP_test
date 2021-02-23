@@ -6,3 +6,7 @@ This is a project that I have created purely for testing whether the github page
 
 This is not something major, it is just a simple PHP test file.
 #githubpagesphp
+
+# Conclusion
+
+Gihub pages does not support PHP.
